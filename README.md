@@ -1,5 +1,5 @@
 # Overfitting-and-Underfitting-in-Machine-Learning
-Understanding Overfitting and Underfitting in Machine Learning
+## Understanding Overfitting and Underfitting in Machine Learning
 
 In the world of machine learning, building a model that can generalize well to new, unseen data is crucial. However, achieving this balance is often challenging. Two common issues that arise during model training are overfitting and underfitting. These problems can significantly impact the performance of your model. In this blog, we’ll break down what overfitting and underfitting are, how they differ, and provide examples to help you understand these concepts better.
 
